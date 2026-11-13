@@ -43,6 +43,12 @@ Test a different folder's disk space and writability:
 python3 check_local.py --path /some/folder
 ```
 
+## License
+
+MIT License. See the LICENSE file in this repository.
+
+Copyright (c) 2026 RavGB Technologies Inc.
+
 ## Example output
 
 ```text
