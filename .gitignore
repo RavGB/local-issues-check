@@ -1,5 +1,5 @@
-__pycache__/
-*.pyc
+local-issues-check
 report.txt
 local-report.txt
+*.report
 .write-test-*
